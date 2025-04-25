@@ -1,0 +1,29 @@
+Este es un archivo de texto de ejemplo
+para probar nuestro conversor de TXT a PDF.
+
+Vamos a incluir diferentes formatos:
+    - Esta línea tiene una indentación de cuatro espacios
+        - Esta línea tiene una indentación de ocho espacios
+            - Esta línea tiene una indentación de doce espacios
+
+También podemos incluir TEXTO EN MAYÚSCULAS y texto en minúsculas.
+
+Números:
+1. Primer elemento
+2. Segundo elemento
+   3. Elemento anidado
+   4. Otro elemento anidado
+5. Tercer elemento principal
+
+Espaciado:
+
+Este texto está separado por líneas en blanco.
+
+   Este texto tiene espacios al principio.
+
+Este texto      tiene múltiples    espacios   entre   palabras.
+
+Texto con caracteres especiales:
+áéíóúÁÉÍÓÚñÑ¿¡€$%&#@!
+
+Fin del archivo de prueba.

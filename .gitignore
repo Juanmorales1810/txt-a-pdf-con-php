@@ -1,0 +1,60 @@
+# Archivos y carpetas específicas del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos y carpetas específicas del IDE/Editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+nbproject/
+.project
+.buildpath
+.settings/
+
+# Archivos temporales y de caché de PHP
+*.log
+*.tmp
+*.temp
+*.cache
+*.swp
+*.bak
+error_log
+/tmp/
+/temp/
+/cache/
+
+# Archivos y carpetas específicas de PHP
+/vendor/
+composer.lock
+php_errors.log
+
+# Archivos de configuración local
+.env
+.env.local
+.env.*.local
+config.php
+database.php
+
+# Archivos PDF generados (si se guardan en el servidor)
+*.pdf
+
+# Archivos temporales generados durante el proceso de subida
+/uploads/
+
+# Archivos ZIP y archivos comprimidos (excepto el fpdf.zip que es necesario)
+# Comentamos esta línea ya que queremos mantener fpdf.zip en el repositorio
+# *.zip
+
+# Archivos de caché y sesión de PHP
+/sessions/
+__MACOSX/
+
+# Dependencias y paquetes
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
